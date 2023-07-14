@@ -1,13 +1,9 @@
-  <!--<img  class="icons" src="./asset/icons/bar-chart.png" alt="">
-                <h3>Graphic & Sketch Designing</h3>
-                <img  class="icons" src="./asset/icons/startup.png" alt="">
-                <h3>SEO & Content Writing</h3>
-                <img  class="icons" src="./asset/icons/digital-marketing.png" alt="">
-                <h3>Digital Market Planning</h3>--> 
-
- <!--<div class="img-container">
-                    <img class="profile-pic" src="./asset/image/author.jpg" alt="">
+ <div class="img-container">
+.profile-container
+                    <img src="./asset/image/author.jpg" alt="">
                     <h5>George Smith
                         <small>CEO, Director</small></h5>
-                        <button class="btn">MORE DETAILS</button>
-                </div>--> 
+                </div>
+.author button
+.btn
+3 div
