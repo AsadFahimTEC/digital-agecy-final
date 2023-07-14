@@ -23,4 +23,44 @@
 }
 
 /* banner sec styles */
+.banner-container{
+    height: 100vh;
+    background-image: url("./asset/image/background.jpg"), linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
 
+.title{
+    font-size: 55px;
+    color: white;
+    font-weight: bold;
+}
+
+.primary{
+    color: red;
+}
+
+.info{
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    padding: 10px 12px;
+    border: none;
+}
+
+.btn-primary{
+    background-color: red;
+    color: white;
+    margin-right: 5px;
+}
